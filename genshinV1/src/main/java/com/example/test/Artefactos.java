@@ -13,7 +13,7 @@ public class Artefactos implements Serializable {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private long id;
-	
+	//test2
 	private String rareza;
 	private String nombre;
 	private String buff1;
